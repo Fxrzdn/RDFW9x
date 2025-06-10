@@ -1,2 +1,3 @@
 # RDFW9x
-RDFW9x, an ambitious project I made to attempt to at least get a simulated version of the website working on old operating systems
+RDFW9x, an ambitious project I made to attempt to get at least a simulated version of the Roblox website working on old operating systems
+:P
